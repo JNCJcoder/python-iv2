@@ -17,4 +17,13 @@ Projetos:
 - Flask Teste
 - HTTP Test
 
+## 📝 Parte 3
+
+Foi feito 2 programas em Python sobre Machine Learning e Rede Neural utilizando scikit-learn, numpy, matplotlib e p5.
+
+Projetos:
+
+- ml (Machine Learning)
+- Perceptron
+
 
